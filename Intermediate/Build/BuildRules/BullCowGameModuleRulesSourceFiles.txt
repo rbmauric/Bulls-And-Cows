@@ -1,0 +1,3 @@
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGame\BullCowGame.Build.cs
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGame.Target.cs
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGameEditor.Target.cs

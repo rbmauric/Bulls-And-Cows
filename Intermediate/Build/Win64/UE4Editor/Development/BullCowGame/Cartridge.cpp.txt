@@ -1,0 +1,5 @@
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGame\Console\Cartridge.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGame\Console\Terminal.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Terminal.generated.h

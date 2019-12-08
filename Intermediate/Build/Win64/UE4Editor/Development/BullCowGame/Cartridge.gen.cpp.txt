@@ -1,0 +1,5 @@
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Source\BullCowGame/Console/Cartridge.h
+C:\Users\rbmau\OneDrive\Documents\Unreal Projects\BullsAndCows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h

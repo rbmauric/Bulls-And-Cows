@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BullCowGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{867D6007-C438-495F-B7FC-C6CC3C461644}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BullCowGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BullCowGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{ECDCEF75-5B15-49E4-B5AA-585A041936B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BullCowGame">
+      <UniqueIdentifier>{223D80C2-81EC-4D49-A32B-97DE8C3B1916}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BullCowGame\BullCowCartridge.cpp">
+      <Filter>Source\BullCowGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BullCowGame\BullCowCartridge.h">
+      <Filter>Source\BullCowGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BullCowGame\BullCowGame.Build.cs">
+      <Filter>Source\BullCowGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BullCowGame\BullCowGame.cpp">
+      <Filter>Source\BullCowGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BullCowGame\BullCowGame.h">
+      <Filter>Source\BullCowGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BullCowGame\BullCowGameGameModeBase.cpp">
+      <Filter>Source\BullCowGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BullCowGame\BullCowGameGameModeBase.h">
+      <Filter>Source\BullCowGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\BullCowGame\Console">
+      <UniqueIdentifier>{F95B881B-630D-49EC-92B9-53F3FF5AD3C6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BullCowGame\Console\Cartridge.cpp">
+      <Filter>Source\BullCowGame\Console</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BullCowGame\Console\Cartridge.h">
+      <Filter>Source\BullCowGame\Console</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BullCowGame\Console\Terminal.cpp">
+      <Filter>Source\BullCowGame\Console</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BullCowGame\Console\Terminal.h">
+      <Filter>Source\BullCowGame\Console</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
